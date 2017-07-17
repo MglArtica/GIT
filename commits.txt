@@ -1,0 +1,23 @@
+commit a247cff23471fe8de91a1f7146341d54573c6f73
+Author: Miguel Artica Chacon <miguelartica7@gmail.com>
+Date:   Sun Jul 16 19:30:26 2017 -0500
+
+    agregue mi portafolio
+
+commit 6f1737baf2cc7dcf915a90fff8f5e1a766a00dcc
+Author: Miguel Artica Chacon <miguelartica7@gmail.com>
+Date:   Sun Jul 16 19:29:13 2017 -0500
+
+    Agregue mi descripcion
+
+commit e1f96fde7ce32499e3dc17664dfe37058225a96f
+Author: Miguel Artica Chacon <miguelartica7@gmail.com>
+Date:   Sun Jul 16 19:26:49 2017 -0500
+
+    Agregue redes sociales
+
+commit 358f91dabc238f90b24ff3ca42ff8a76ded4352c
+Author: Miguel Artica Chacon <miguelartica7@gmail.com>
+Date:   Sun Jul 16 19:25:14 2017 -0500
+
+    Perfil web escrito
