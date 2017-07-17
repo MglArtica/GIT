@@ -42,6 +42,8 @@ con git checkout puedes volver a un estado poniedo el codigo de checkout esto so
 para volve al ultimo commit 
 git checkout master
 
+si deseas eliminar del staging area y regresar al work area
+git reset HEAD nombreArchivo
 
 3 REPOSITORY
 PARA SUBIR A GIT HUB
