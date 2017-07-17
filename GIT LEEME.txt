@@ -1,0 +1,54 @@
+1 WORK AREA
+
+2 STAGING AREA
+
+3 REPOSITORY
+
+para registrar tu usuario y correo
+git config --global user.name
+git config --global user.email
+git config --global color.iu true
+git config --global --list
+
+para ver listado de carpetas 
+ls
+
+para ingresar a la carpeta
+cd nombredecarpeta
+
+se debe estar en la carpeta principal del proyecto
+git init, eso inicializa GIT
+
+
+1 WORK AREA
+verifica cambios
+gis status  
+
+2 STAGING AREA
+sube cambios al staging
+git add -A   (el -A sube todos los archivos, si no deseas pones el nombre del archivo en ves de -A)
+
+finalmente 
+git commit -m (-m para que pongas un mensaje para que describa el commit)
+
+cada cambios que subas genera un codigo de commit.
+git log
+
+para pasar eso a un archivo de texto
+git log > nombredetuArchivo.txt
+
+con git checkout puedes volver a un estado poniedo el codigo de checkout esto solo regresa al tiempo de commit sin dañar tus cambios.
+
+para volve al ultimo commit 
+git checkout master
+
+
+3 REPOSITORY
+PARA SUBIR A GIT HUB
+git remote add origin https://github.com/MglArtica/GIT.git
+git push -u origin master
+
+
+
+rm -rf (este comando borra la carpeta Master de git )
+
